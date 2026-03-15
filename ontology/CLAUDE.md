@@ -10,8 +10,8 @@
 
 ## Summary
 
-- 0 Concept Classes
-- 0 Concepts
+- 1 Concept Classes
+- 1 Concepts
 - 1 Markets
 - 0 Relationships
 
