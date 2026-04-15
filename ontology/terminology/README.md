@@ -4,4 +4,4 @@
 
 | Concept | ID | Class |
 |---------|-----|-------|
-| [Total Magny](./plan_00000007.md) | `plan_00000007` | Plan |
+| [DataCleanUp](./plan_00000008.md) | `plan_00000008` | Plan |
