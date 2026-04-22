@@ -10,10 +10,10 @@
 
 ## Summary
 
-- 2 Concept Classes
-- 1 Concepts
-- 1 Markets
-- 36 Relationships
+- 3 Concept Classes
+- 29 Concepts
+- 2 Markets
+- 156 Relationships
 
 ## File Structure
 
