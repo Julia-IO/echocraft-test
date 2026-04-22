@@ -44,8 +44,6 @@
 | Studio Pro | isfeatureof | Virtual Instrument | — |
 | MP3 Export | hasFeature | Studio Pro | — |
 | Studio Pro | isfeatureof | MP3 Export | — |
-| Arrangement Timeline | hasFeature | Studio Pro | — |
-| Studio Pro | isfeatureof | Arrangement Timeline | — |
 | Effects Rack | hasFeature | Studio Pro | — |
 | Studio Pro | isfeatureof | Effects Rack | — |
 | Creator Max | hasPlan | Creator | — |
@@ -98,8 +96,6 @@
 | Creator Pro | isfeatureof | Virtual Instrument | — |
 | MP3 Export | hasFeature | Creator Pro | — |
 | Creator Pro | isfeatureof | MP3 Export | — |
-| Arrangement Timeline | hasFeature | Creator Pro | — |
-| Creator Pro | isfeatureof | Arrangement Timeline | — |
 | Effects Rack | hasFeature | Creator Pro | — |
 | Creator Pro | isfeatureof | Effects Rack | — |
 | MIDI Editor | hasFeature | Creator Max | — |
@@ -108,8 +104,6 @@
 | Creator Max | isfeatureof | Virtual Instrument | — |
 | MP3 Export | hasFeature | Creator Max | — |
 | Creator Max | isfeatureof | MP3 Export | — |
-| Arrangement Timeline | hasFeature | Creator Max | — |
-| Creator Max | isfeatureof | Arrangement Timeline | — |
 | Effects Rack | hasFeature | Creator Max | — |
 | Creator Max | isfeatureof | Effects Rack | — |
 | Mastering Chain | hasFeature | Creator Max | — |
@@ -142,8 +136,6 @@
 | Studio Max | isfeatureof | Virtual Instrument | — |
 | MP3 Export | hasFeature | Studio Max | — |
 | Studio Max | isfeatureof | MP3 Export | — |
-| Arrangement Timeline | hasFeature | Studio Max | — |
-| Studio Max | isfeatureof | Arrangement Timeline | — |
 | Effects Rack | hasFeature | Studio Max | — |
 | Studio Max | isfeatureof | Effects Rack | — |
 | Mastering Chain | hasFeature | Studio Max | — |
