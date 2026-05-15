@@ -12,7 +12,7 @@
 
 - 3 Concept Classes
 - 28 Concepts
-- 2 Markets
+- 3 Markets
 - 148 Relationships
 
 ## File Structure
