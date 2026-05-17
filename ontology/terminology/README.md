@@ -1,6 +1,6 @@
 # Terminology
 
-28 concepts with 28 term pairs.
+28 concepts with 56 term pairs.
 
 | Concept | ID | Class |
 |---------|-----|-------|
