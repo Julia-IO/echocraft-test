@@ -2,3 +2,7 @@
 
 - **Native Name**: Italia, italiano
 - **Direction**: ltr
+
+## Market Snapshot
+
+dfdf
