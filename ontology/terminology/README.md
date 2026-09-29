@@ -1,6 +1,6 @@
 # Terminology
 
-28 concepts with 56 term pairs.
+29 concepts with 57 term pairs.
 
 | Concept | ID | Class |
 |---------|-----|-------|
@@ -21,6 +21,7 @@
 | [One-Click Distribution](./feat_00000020.md) | `feat_00000020` | Feature |
 | [Pattern Sequencer](./feat_00000002.md) | `feat_00000002` | Feature |
 | [Piano Roll](./feat_00000006.md) | `feat_00000006` | Feature |
+| [Punch-In Recording](./feat_00000266.md) | `feat_00000266` | Feature |
 | [Sample Library](./feat_00000008.md) | `feat_00000008` | Feature |
 | [Shared Project](./feat_00000015.md) | `feat_00000015` | Feature |
 | [Studio](./prod_00000002.md) | `prod_00000002` | ProductLine |
