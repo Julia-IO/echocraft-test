@@ -11,7 +11,7 @@
 ## Summary
 
 - 3 Concept Classes
-- 29 Concepts
+- 30 Concepts
 - 4 Markets
 - 148 Relationships
 

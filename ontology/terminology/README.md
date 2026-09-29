@@ -1,9 +1,10 @@
 # Terminology
 
-29 concepts with 57 term pairs.
+30 concepts with 58 term pairs.
 
 | Concept | ID | Class |
 |---------|-----|-------|
+| [Arrangement Timeline](./feat_00000267.md) | `feat_00000267` | Feature |
 | [Chord Progression Generator](./feat_00000013.md) | `feat_00000013` | Feature |
 | [Comment & Marker](./feat_00000016.md) | `feat_00000016` | Feature |
 | [Creator](./prod_00000001.md) | `prod_00000001` | ProductLine |
