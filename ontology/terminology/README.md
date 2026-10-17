@@ -1,6 +1,6 @@
 # Terminology
 
-30 concepts with 58 term pairs.
+31 concepts with 59 term pairs.
 
 | Concept | ID | Class |
 |---------|-----|-------|
@@ -24,6 +24,7 @@
 | [Piano Roll](./feat_00000006.md) | `feat_00000006` | Feature |
 | [Punch-In Recording](./feat_00000266.md) | `feat_00000266` | Feature |
 | [Sample Library](./feat_00000008.md) | `feat_00000008` | Feature |
+| [Scale Assistant](./feat_00000268.md) | `feat_00000268` | Feature |
 | [Shared Project](./feat_00000015.md) | `feat_00000015` | Feature |
 | [Studio](./prod_00000002.md) | `prod_00000002` | ProductLine |
 | [Studio Max](./plan_00000006.md) | `plan_00000006` | Plan |
